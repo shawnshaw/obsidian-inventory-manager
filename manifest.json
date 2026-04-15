@@ -1,0 +1,11 @@
+{
+  "id": "inventory-manager",
+  "name": "Inventory Manager",
+  "version": "0.2.0",
+  "minAppVersion": "1.5.0",
+  "description": "Inventory workbench for Obsidian: manage assets, people, and consumables — track assignments, run audits, and export to CSV/XLSX via integrated Python scripts.",
+  "author": "Oscar Shao",
+  "authorUrl": "https://github.com/Os",
+  "fundingUrl": "https://github.com/sponsors/Os",
+  "isDesktopOnly": true
+}

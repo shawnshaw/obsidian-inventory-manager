@@ -1,0 +1,8 @@
+{
+  "0.2.0": "Add consumables tracking with low-stock alerts, quantity auto-deduction, device claim/return workflows",
+  "0.1.5": "Add people management with department/status tracking, assignment view, device return on departure",
+  "0.1.3": "Add audit system, anomaly detection, audit report generation",
+  "0.1.2": "Add CSV/XLSX export, improve transaction modal",
+  "0.1.1": "Add location picker, frontmatter auto-update on transaction",
+  "0.1.0": "Initial release with asset dashboard, create asset, apply transaction"
+}
